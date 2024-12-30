@@ -1,36 +1,38 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Foodie - Discover Delicious Dishes
+
+Welcome to **Foodie**, a delightful web application that helps you explore a variety of mouthwatering dishes, their details, and more! Built with **Next.js**, this project aims to provide a seamless and responsive browsing experience for food lovers.
+
+![Foodie Banner](./public/images/foodie.png)
+
+## Features
+
+- **Delicious Dishes**: Browse a variety of dishes, each with images, descriptions, and more.
+  
+  ![Dish Example](./public/images/foodie1.png)
+
+- **Randomized Titles**: Enjoy engaging, random titles for a dynamic experience.
+
+- **Responsive Design**: Optimized for various screen sizes and devices.
+  
+  ![Responsive Design](./public/images/foodie2.png)
+
+- **Smooth Scroll Animations**: Sections become visible when you scroll, adding to the user experience.
+
+- **Easy-to-Use Interface**: Clean and intuitive design for effortless navigation.
 
 ## Getting Started
 
-First, run the development server:
+To get started with **Foodie**, follow these steps:
+
+### Prerequisites
+
+Make sure you have the following installed on your system:
+- [Node.js](https://nodejs.org/) (v14.0 or above)
+- [npm](https://npmjs.com/) (or `yarn`, `pnpm`, or `bun`)
+
+### 1. Clone the Repository
+
+Clone the project repository to your local machine:
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+git clone https://github.com/your-username/foodie.git
